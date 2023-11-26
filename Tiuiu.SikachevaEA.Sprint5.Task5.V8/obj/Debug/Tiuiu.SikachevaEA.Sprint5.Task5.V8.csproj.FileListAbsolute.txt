@@ -1,0 +1,11 @@
+C:\Users\lizas\source\repos\Tiuiu.SikachevaEA.Sprint5\Tiuiu.SikachevaEA.Sprint5.Task5.V8\bin\Debug\Tiuiu.SikachevaEA.Sprint5.Task5.V8.exe.config
+C:\Users\lizas\source\repos\Tiuiu.SikachevaEA.Sprint5\Tiuiu.SikachevaEA.Sprint5.Task5.V8\bin\Debug\Tiuiu.SikachevaEA.Sprint5.Task5.V8.exe
+C:\Users\lizas\source\repos\Tiuiu.SikachevaEA.Sprint5\Tiuiu.SikachevaEA.Sprint5.Task5.V8\bin\Debug\Tiuiu.SikachevaEA.Sprint5.Task5.V8.pdb
+C:\Users\lizas\source\repos\Tiuiu.SikachevaEA.Sprint5\Tiuiu.SikachevaEA.Sprint5.Task5.V8\bin\Debug\Tiuiu.SikachevaEA.Sprint5.Task5.V8.Lib.dll
+C:\Users\lizas\source\repos\Tiuiu.SikachevaEA.Sprint5\Tiuiu.SikachevaEA.Sprint5.Task5.V8\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\lizas\source\repos\Tiuiu.SikachevaEA.Sprint5\Tiuiu.SikachevaEA.Sprint5.Task5.V8\bin\Debug\Tiuiu.SikachevaEA.Sprint5.Task5.V8.Lib.pdb
+C:\Users\lizas\source\repos\Tiuiu.SikachevaEA.Sprint5\Tiuiu.SikachevaEA.Sprint5.Task5.V8\obj\Debug\Tiuiu.SikachevaEA.Sprint5.Task5.V8.csproj.AssemblyReference.cache
+C:\Users\lizas\source\repos\Tiuiu.SikachevaEA.Sprint5\Tiuiu.SikachevaEA.Sprint5.Task5.V8\obj\Debug\Tiuiu.SikachevaEA.Sprint5.Task5.V8.csproj.CoreCompileInputs.cache
+C:\Users\lizas\source\repos\Tiuiu.SikachevaEA.Sprint5\Tiuiu.SikachevaEA.Sprint5.Task5.V8\obj\Debug\Tiuiu.SikachevaEA.Sprint5.Task5.V8.csproj.CopyComplete
+C:\Users\lizas\source\repos\Tiuiu.SikachevaEA.Sprint5\Tiuiu.SikachevaEA.Sprint5.Task5.V8\obj\Debug\Tiuiu.SikachevaEA.Sprint5.Task5.V8.exe
+C:\Users\lizas\source\repos\Tiuiu.SikachevaEA.Sprint5\Tiuiu.SikachevaEA.Sprint5.Task5.V8\obj\Debug\Tiuiu.SikachevaEA.Sprint5.Task5.V8.pdb
